@@ -1,0 +1,45 @@
+/* Global */
+
+*, *::before, *::after {
+	box-sizing: border-box;
+}
+
+/* Song */
+
+.song {
+    padding: 40px;
+}
+
+.title, .text {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.title {
+    font-family: 'Amatic SC', cursive;
+    font-weight: bold;
+}
+
+.text {
+    max-width: 50vh;
+    font-family: 'Amatic SC', cursive;
+    font-weight: normal;
+    font-size: 3vh;
+    background-color: black;
+    color: #fff;
+    padding: 25px;
+    border-radius: 50px;;
+}
+
+h1 {
+    font-size: 5vh;
+}
+
+i {
+    margin-right: 10px;
+}
+
+h2 {
+    font-size: 4vh;
+}
+
