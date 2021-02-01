@@ -1,0 +1,8 @@
+1. (autoprefixer-cli) ma czytać z pliku style.css i zapisywać wynik do pliku style.prefixed.css 
+
+	Odp: autoprefixer-cli -o style.prefixed.css style.css
+
+
+2. (html-validate) ma wyświetlać listę błędów we wszystkich plikach .html.
+
+	Odp: html-validate FILENAME..
